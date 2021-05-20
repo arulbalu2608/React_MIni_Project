@@ -1,0 +1,14 @@
+.input {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  outline: none;
+  height: 30px;
+}
+.input:hover {
+  background: none;
+}
+.done {
+  cursor: pointer;
+  margin-top: 5px;
+}
